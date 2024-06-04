@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T00:58:54.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QgDy616HRRM00frcQRn5" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-04T01:01:32.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fS7id0p6cZzd0ry67Y-j" version="24.4.13" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="กิจกรรมที่1">
     <mxGraphModel dx="1134" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -572,6 +572,9 @@
         </mxCell>
         <mxCell id="kiVsvA6Vte0mHjh2Fyln-18" value="&lt;font face=&quot;Sarabun&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;FK&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="kiVsvA6Vte0mHjh2Fyln-1">
           <mxGeometry x="414" y="2753" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j_BRqkH7jHUrhY_5sYw7-0" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ข้อกำหนด&lt;/b&gt;&lt;br&gt;&lt;br&gt;ในระหว่างการออกแบบฐานข้อมูล บริษัทธุรกิจจัดหางานได้เพิ่มเติมความต้องการหลังจากที่ได้&lt;br&gt;&lt;br&gt;ออกแบบฐานข้อมูลแล้ว โดยให้สามารถค้นข้อมูลที่อยู่ของบริษัทและที่อยู่ของผู้สมัครในระดับจังหวัดได้ดังนั้น&lt;br&gt;&lt;br&gt;ให้นักศึกษาแตกแอตทริบิวต์ ที่อยู่ของบริษัท (COMP_ADDRESS) เป็น เลขที่และถนน (COMP_ADDR) และ&lt;br&gt;&lt;br&gt;จังหวัดที่ตั้งของบริษัท (COMP_CHW) และแตกแอตทริบิวต์ที่อยู่ของผู้สมัคร (AP_ADDRESS) เป็น เลขที่และ&lt;br&gt;&lt;br&gt;ถนนของผู้สมัคร (AP_ADDR) และจังหวัดที่ตั้งของผู้สมัคร (AP_CHW)&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="kiVsvA6Vte0mHjh2Fyln-1">
+          <mxGeometry x="95" y="2810" width="725" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
